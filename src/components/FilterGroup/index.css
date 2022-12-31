@@ -1,0 +1,23 @@
+.salary-range-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 700;
+  margin-top: 24px;
+}
+
+.employment-type-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 700;
+  margin-top: 24px;
+}
+
+.label-text {
+  color: white;
+}
+
+.category-list {
+  padding: 0px;
+}

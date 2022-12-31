@@ -1,0 +1,20 @@
+.Job-container {
+  min-height: 100vh;
+  background-color: black;
+}
+
+.job-details-container {
+  width: 100%;
+  max-width: 1600px;
+
+  display: flex;
+  width: 100%;
+  margin-top: 30px;
+}
+
+@media screen and (max-width: 768px) {
+  .job-details-container {
+    display: flex;
+    flex-direction: column;
+  }
+}

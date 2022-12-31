@@ -1,0 +1,80 @@
+.job-item-details-container {
+  width: 80%;
+  max-width: 1500px;
+  background-color: #272727;
+  margin-top: 60px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.job-card-details-container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.company-details-container {
+  display: flex;
+  align-items: center;
+}
+.job-details-company-logo {
+  width: 75px;
+  height: 75px;
+  margin-right: 12px;
+}
+
+.rating-container {
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+.job-details-line {
+  width: 100%;
+  color: white;
+}
+
+.company-url {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.span-visit {
+  font-size: 18px;
+  margin-right: 10px;
+  color: #6366f1;
+}
+
+.web-site-url {
+  text-decoration: none;
+}
+
+.visit-link-icon {
+  color: #6366f1;
+}
+
+.skill-container {
+  display: flex;
+  flex-wrap: wrap;
+
+  margin-top: 20px;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.skill-card {
+  display: flex;
+  align-items: center;
+  width: 300px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
